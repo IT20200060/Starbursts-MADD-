@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btn1">#FFB300</color>
+    <color name="bgmainback">#D0000000</color>
+    <color name="btnbgcolor">#00000000</color>
+    <color name="navcolor">#000000</color>
+    <color name="fltopicbg">#FDFFD740</color>
+    <color name="racbgclor">#8D8787</color>
+    <color name="textcontent">#FFFFFF</color>
+    <color name="textcontet1">#FFFFFF</color>
+    <color name="btn2">#FFB300</color>
+    <color name="framelayout4">#8D8787</color>
+    <color name="textcontent3">#FFFFFF</color>
+    <color name="desbgcolor">#2FFFFFFF</color>
+    <color name="btn3">#FFB300</color>
+    <color name="img1">#332A29</color>
+    <color name="btn">#000000</color>
+    <color name="mainbgclr">#2FFFFFFF</color>
+</resources>

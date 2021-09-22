@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tvtopicsize">30sp</dimen>
+    <dimen name="textcontent">18sp</dimen>
+    <dimen name="textcontent1">18sp</dimen>
+    <dimen name="textcontent2">18sp</dimen>
+    <dimen name="textcontent3">18sp</dimen>
+    <dimen name="check1">18sp</dimen>
+    <dimen name="textcontent4">18sp</dimen>
+    <dimen name="textdes1">18sp</dimen>
+    <dimen name="textdes2">18sp</dimen>
+    <dimen name="textdes3">18sp</dimen>
+    <dimen name="btn3">17sp</dimen>
+    <dimen name="txt3">18sp</dimen>
+    <dimen name="txt4">18sp</dimen>
+    <dimen name="txt5">20sp</dimen>
+    <dimen name="txt6">20sp</dimen>
+    <dimen name="txt7">20sp</dimen>
+    <dimen name="text8">20sp</dimen>
+    <dimen name="btn4">18sp</dimen>
+    <dimen name="btn5">16sp</dimen>
+    <dimen name="btn1">18sp</dimen>
+    <dimen name="intext1">20sp</dimen>
+    <dimen name="intext2">20sp</dimen>
+    <dimen name="intext3">20sp</dimen>
+    <dimen name="txt">18sp</dimen>
+    <dimen name="txtview">25sp</dimen>
+</resources>
