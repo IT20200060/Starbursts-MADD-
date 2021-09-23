@@ -72,4 +72,45 @@
     <string name="btnMain">GET STARTED</string>
     <string name="tvSubmain">Place where taste never ends</string>
 
+    <string name="app_name">FoodOrderAppPayment</string>
+
+
+    <string name="btnname2">Save</string>
+    <string name="tv2">CHECKOUT</string>
+    <string name="tvname33">Total Price Rs.0.00</string>
+    <string name="tvtext4">Total Quantity 00</string>
+    <string name="tvname55">Card Holders Name :</string>
+    <string name="tvname66">Payment Method :</string>
+    <string name="tvname7">Card Number :</string>
+    <string name="tvname8">Date of Expiration :</string>
+    <string name="tvname9">Security Code :</string>
+    <string name="tvnamedelete">CREDIT CARD DETAILS</string>
+    <string name="tvdelete1">Card Type :  Mastercard</string>
+    <string name="tvdelete2">Card Type : Mastercard</string>
+    <string name="tvdelete4">Card Number : **** **** **** 8888</string>
+    <string name="tvdelete5">Expiration Date : 01/03/2023</string>
+    <string name="tvdelete6">Card Address : 201, Shanthi Villa , Silkhouse Street , Kandy </string>
+
+    <string name="btnnamedelete1">Edit Card Details</string>
+    <string name="btnnamedelete2">Delete the Payment Method</string>
+    <string name="btnnamedelete3">Make the payment</string>
+    <string name="tvconfirmationname1">Transaction Successful !</string>
+    <string name="tvconfirmationname2">Ref#76543789</string>
+    <string name="tvconfirmationname4">LKR 3,000.00</string>
+    <string name="tvsearchname1">Payment History</string>
+    <string name="tvsearchntext1">Please Select the Search Criteria</string>
+    <string name="tvsearchtext2">Payment Id (Reference No)</string>
+    <string name="tvsearchtext3">Payment Method </string>
+    <string name="tvsearchtext5">From date</string>
+    <string name="tvsearchtext6">From amount</string>
+    <string name="tvsearchtext7">Sort order</string>
+    <string name="btnsearchtext1">Search</string>
+    <string name="btntextnamec1">Go to Payment History</string>
+    <string name="tvhistorytext1" > Do you want to see your order details ?</string>
+    <string name="tvtexthistory2">Do you want to see your order details?</string>
+    <string name="btntexth1" />
+    <string name="btntexthh2">Yes</string>
+    <string name="btntexthh3">No</string>
+    <string name="btnconf1">Go to Payment History</string>
+
 </resources>

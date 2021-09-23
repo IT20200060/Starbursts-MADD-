@@ -32,4 +32,14 @@
     <dimen name="TitleSize">30sp</dimen>
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="tvMainSize">50sp</dimen>
+
+    <dimen name="tv2topicsize">30sp</dimen>
+    <dimen name="tvname3">15sp</dimen>
+    <dimen name="tvname4size">15sp</dimen>
+    <dimen name="tvnamesizedelete">30sp</dimen>
+    <dimen name="tvconfirmationtextsize">23sp</dimen>
+    <dimen name="tvconfirmationsize3">18sp</dimen>
+    <dimen name="tvconfirmationsize4">21sp</dimen>
+    <dimen name="tvsearchsize1">30sp</dimen>
+
 </resources>

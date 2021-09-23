@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.NewAndroidProject">
-        <activity android:name=".activity_register"></activity>
+        <activity android:name=".activity_searchpayment"></activity>
+        <activity android:name=".activity_editdelete" />
+        <activity android:name=".activity_confirmationpayment" />
+        <activity android:name=".activity_checkout" />
+        <activity android:name=".activity_register" />
         <activity android:name=".activity_main_page" />
         <activity android:name=".activity_login" />
         <activity
