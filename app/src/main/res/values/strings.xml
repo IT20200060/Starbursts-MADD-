@@ -34,4 +34,42 @@
     <string name="btn2">no</string>
     <string name="tv9">Add to Cart</string>
     <string name="tvcart">CART</string>
+
+    <string name="app_name">Login2</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_register">Register</string>
+
+
+    <string name="Email">Enter your Email Address</string>
+    <string name="password">Enter your Password</string>
+    <string name="btnSign">SIGN IN</string>
+    <string name="Account">Create an Account</string>
+    <string name="tvName">Full Name</string>
+    <string name="hint1">Enter your name</string>
+    <string name="pw">Password</string>
+    <string name="Rpw">Repeat Password</string>
+    <string name="Remail">Email Address</string>
+    <string name="Reg">REGISTER</string>
+    <string name="Title">Create Account</string>
+    <string name="title_activity_place_order">PlaceOrder</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="tvMainTopic">THE CRISPY BUN</string>
+    <string name="btnMain">GET STARTED</string>
+    <string name="tvSubmain">Place where taste never ends</string>
+
 </resources>

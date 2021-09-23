@@ -9,6 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.NewAndroidProject">
+        <activity android:name=".activity_register"></activity>
+        <activity android:name=".activity_main_page" />
+        <activity android:name=".activity_login" />
         <activity
             android:name=".CartSearch"
             android:exported="true" />
