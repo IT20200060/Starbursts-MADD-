@@ -4,6 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Cart/Starbursts-MADD-/app/src/main/res/layout/activity_cart_search.xml" value="0.17391304347826086" />
+        <entry key="..\:/cart new/Starbursts-MADD-/app/src/main/res/layout/activity_cart_search.xml" value="0.17391304347826086" />
+        <entry key="..\:/cart new/Starbursts-MADD-/app/src/main/res/layout/activity_checkout.xml" value="0.17391304347826086" />
+        <entry key="..\:/cart new/Starbursts-MADD-/app/src/main/res/layout/activity_confirmation.xml" value="0.17391304347826086" />
+        <entry key="..\:/cart new/Starbursts-MADD-/app/src/main/res/layout/activity_confirmationpayment.xml" value="0.17391304347826086" />
+        <entry key="..\:/cart new/Starbursts-MADD-/app/src/main/res/layout/activity_editdelete.xml" value="0.17391304347826086" />
+        <entry key="..\:/cart new/Starbursts-MADD-/app/src/main/res/layout/activity_feedback.xml" value="0.17391304347826086" />
+        <entry key="..\:/cart new/Starbursts-MADD-/app/src/main/res/layout/activity_login.xml" value="0.17391304347826086" />
+        <entry key="..\:/cart new/Starbursts-MADD-/app/src/main/res/layout/activity_main.xml" value="0.17391304347826086" />
+        <entry key="..\:/cart new/Starbursts-MADD-/app/src/main/res/layout/activity_main_cart.xml" value="0.17391304347826086" />
       </map>
     </option>
   </component>
