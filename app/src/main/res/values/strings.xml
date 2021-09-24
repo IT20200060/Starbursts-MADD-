@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">Cart</string>
     <string name="btn1name">Clear Cart</string>
     <string name="tvname1">Chicken Burger</string>
     <string name="tvname2">Cheese Burger</string>
@@ -29,13 +28,12 @@
     <string name="tv6style">bold</string>
     <string name="text6">Do you want to remove this item?</string>
     <string name="btn1">Add to Cart</string>
-    <string name="tv2">Cheese Burger</string>
     <string name="btn">Yes</string>
     <string name="btn2">no</string>
     <string name="tv9">Add to Cart</string>
     <string name="tvcart">CART</string>
 
-    <string name="app_name">Login2</string>
+
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
@@ -52,7 +50,6 @@
     <string name="password">Enter your Password</string>
     <string name="btnSign">SIGN IN</string>
     <string name="Account">Create an Account</string>
-    <string name="tvName">Full Name</string>
     <string name="hint1">Enter your name</string>
     <string name="pw">Password</string>
     <string name="Rpw">Repeat Password</string>
@@ -68,11 +65,8 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
-    <string name="tvMainTopic">THE CRISPY BUN</string>
     <string name="btnMain">GET STARTED</string>
     <string name="tvSubmain">Place where taste never ends</string>
-
-    <string name="app_name">FoodOrderAppPayment</string>
 
 
     <string name="btnname2">Save</string>

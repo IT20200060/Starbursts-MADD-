@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+
     <color name="color" />
     <color name="bgcolormain">#D0000000</color>
     <color name="btn1">#FFB300</color>
@@ -19,15 +13,6 @@
     <color name="btn4clolor">#FB8C00</color>
     <color name="vbgcolor">#2FFFFFFF</color>
 
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-
-
     <color name="btnSign">#B88B04</color>
     <color name="clrAccount">#000000</color>
     <color name="clrSign">#000000</color>
@@ -37,13 +22,7 @@
     <color name="Nameclr">#FFFFFF</color>
     <color name="btnReg">#FB8C00</color>
 
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+
     <color name="bgcolor1">#D0000000</color>
     <color name="ibbgcolor">#000000</color>
     <color name="btn2">#FFB300</color>
@@ -72,5 +51,5 @@
     <color name="tvTopicbg">#FDFFD740</color>
     <color name="flCLR">#FFAB40</color>
     <color name="btnPOrderclr">#FF6E40</color>
-    <color name="btnMainclr">#FFD180</color
+    <color name="btnMainclr">#FFD180</color>
 </resources>
