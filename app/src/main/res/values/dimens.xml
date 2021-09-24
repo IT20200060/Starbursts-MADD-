@@ -42,4 +42,28 @@
     <dimen name="tvconfirmationsize4">21sp</dimen>
     <dimen name="tvsearchsize1">30sp</dimen>
 
+    <dimen name="tvMSGSize">25sp</dimen>
+    <dimen name="btnSize">100dp</dimen>
+    <dimen name="btnHeight">50dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="icon">10dp</dimen>
+    <dimen name="height">10dp</dimen>
+    <dimen name="tvTopicsize">30sp</dimen>
+    <dimen name="tvSearchSize">18sp</dimen>
+    <dimen name="tvDesSize">18sp</dimen>
+    <dimen name="tvTot">23sp</dimen>
+    <dimen name="btnpOrderSize">26sp</dimen>
+    <dimen name="btnSizeLeft">50dp</dimen>
+    <dimen name="btnSizeRight">50dp</dimen>
+    <dimen name="btnSizeB">20dp</dimen>
+    <dimen name="btnwidthAdd">138dp</dimen>
+    <dimen name="btnHeightAdd">41dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+
 </resources>
