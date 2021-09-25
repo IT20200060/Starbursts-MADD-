@@ -18,7 +18,8 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginRight="1dp">
 
         <LinearLayout
             android:id="@+id/llbnavigation"
@@ -77,7 +78,9 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginLeft="174dp"
+        android:layout_marginRight="16dp" />
 
     <EditText
         android:id="@+id/editTextTextPostalAddress"
@@ -95,7 +98,9 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginLeft="36dp"
+        android:layout_marginRight="165dp" />
 
     <ImageView
         android:id="@+id/imageView6"
@@ -109,7 +114,9 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/chicken_burger" />
+        app:srcCompat="@drawable/chicken_burger"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="10dp" />
 
     <TextView
         android:id="@+id/textView"
@@ -123,7 +130,8 @@
         android:textSize="@dimen/tvsize1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginLeft="37dp" />
 
     <ImageView
         android:id="@+id/imageView8"
@@ -136,7 +144,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.552"
-        app:srcCompat="@drawable/cheeeese_buuuurger" />
+        app:srcCompat="@drawable/cheeeese_buuuurger"
+        android:layout_marginLeft="40dp" />
 
     <ImageView
         android:id="@+id/imageView10"
@@ -152,7 +161,9 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.857"
-        app:srcCompat="@drawable/vegatable_burger_3" />
+        app:srcCompat="@drawable/vegatable_burger_3"
+        android:layout_marginLeft="23dp"
+        android:layout_marginRight="40dp" />
 
     <TextView
         android:id="@+id/textView3"
@@ -169,7 +180,9 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginLeft="48dp"
+        android:layout_marginRight="61dp" />
 
     <Button
         android:id="@+id/button2"
@@ -184,7 +197,8 @@
         android:textSize="@dimen/tvsize"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginRight="45dp" />
 
     <TextView
         android:id="@+id/textView8"
@@ -202,7 +216,9 @@
         app:layout_constraintHorizontal_bias="0.161"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.4" />
+        app:layout_constraintVertical_bias="0.4"
+        android:layout_marginLeft="53dp"
+        android:layout_marginRight="136dp" />
 
     <Button
         android:id="@+id/button3"
@@ -218,7 +234,9 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginLeft="196dp"
+        android:layout_marginRight="45dp" />
 
     <Button
         android:id="@+id/button5"
@@ -233,6 +251,7 @@
         android:textSize="@dimen/tv10size"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginRight="52dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
