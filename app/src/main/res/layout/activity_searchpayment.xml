@@ -2,10 +2,11 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tvsearchname2"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/bgcolor1"
-    tools:context=".editdelete">
+    tools:context=".searchpayment">
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/bottomNavigationView"
@@ -62,143 +63,193 @@
         </LinearLayout>
     </com.google.android.material.bottomnavigation.BottomNavigationView>
 
-    <LinearLayout
-        android:id="@+id/llbnavigation1"
-        android:layout_width="399dp"
-        android:layout_height="66dp"
-        android:layout_marginTop="666dp"
-        android:layout_marginEnd="12dp"
-        android:layout_marginRight="12dp"
-        android:background="@color/black"
-        android:orientation="horizontal"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
     <FrameLayout
-        android:id="@+id/frameLayout2"
-        android:layout_width="414dp"
-        android:layout_height="140dp"
-        android:layout_marginBottom="591dp"
+        android:id="@+id/frameLayout3"
+        android:layout_width="404dp"
+        android:layout_height="127dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginBottom="604dp"
+        android:background="@color/fl2"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0">
 
         <TextView
-            android:id="@+id/textView"
-            android:layout_width="match_parent"
+            android:id="@+id/tvsearch1"
+            android:layout_width="421dp"
             android:layout_height="match_parent"
-            android:background="@color/fl2"
             android:gravity="center"
-            android:text="TextView"
+            android:text="@string/tvsearchname1"
             android:textColor="@color/black"
-            android:textSize="@dimen/tv2topicsize"
-            android:textStyle="bold"
-            tools:text="@string/tvnamedelete" />
+            android:textSize="@dimen/tvsearchsize1"
+            android:textStyle="bold" />
     </FrameLayout>
 
     <LinearLayout
-        android:id="@+id/linearLayout"
-        android:layout_width="341dp"
-        android:layout_height="167dp"
-        android:layout_marginStart="35dp"
-        android:layout_marginLeft="35dp"
-        android:layout_marginTop="195dp"
-        android:layout_marginEnd="35dp"
-        android:layout_marginRight="35dp"
-        android:layout_marginBottom="243dp"
+        android:id="@+id/linearLayout3"
+        android:layout_width="354dp"
+        android:layout_height="237dp"
+        android:layout_marginStart="27dp"
+        android:layout_marginLeft="27dp"
+        android:layout_marginTop="155dp"
+        android:layout_marginBottom="339dp"
         android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.047">
+        app:layout_constraintTop_toTopOf="parent">
 
         <TextView
-            android:id="@+id/textView6"
+            android:id="@+id/tvsearchname1"
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:text="TextView"
+            android:textColor="@color/tvnamebgcolor5"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            tools:text="@string/tvsearchntext1" />
+
+        <TextView
+            android:id="@+id/textView4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="TextView"
             android:textColor="@color/tvnamebgcolor5"
-            android:textSize="20sp"
-            tools:text="@string/tvdelete2" />
+            tools:text="@string/tvsearchtext2" />
+
+        <EditText
+            android:id="@+id/editTextTextPersonName2"
+            android:layout_width="match_parent"
+            android:layout_height="21dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Name" />
 
         <TextView
-            android:id="@+id/tvdelete3"
+            android:id="@+id/tvsearchname3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="TextView"
             android:textColor="@color/tvnamebgcolor5"
-            android:textSize="20sp"
-            tools:text="@string/tvdelete4" />
+            tools:text="@string/tvsearchtext3" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="26dp" />
 
         <TextView
-            android:id="@+id/tvdelete5"
+            android:id="@+id/tvsearchname4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="TextView"
             android:textColor="@color/tvnamebgcolor5"
-            android:textSize="20sp"
-            tools:text="@string/tvdelete5" />
+            tools:text="@string/tvsearchtext5" />
+
+        <EditText
+            android:id="@+id/editTextDate2"
+            android:layout_width="match_parent"
+            android:layout_height="18dp"
+            android:ems="10"
+            android:inputType="date" />
 
         <TextView
-            android:id="@+id/tvdelete6"
+            android:id="@+id/tvsearchname5"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="TextView"
             android:textColor="@color/tvnamebgcolor5"
-            android:textSize="20sp"
-            tools:text="@string/tvdelete6" />
+            tools:text="@string/tvsearchtext6" />
+
+        <EditText
+            android:id="@+id/editTextTextPersonName3"
+            android:layout_width="match_parent"
+            android:layout_height="17dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Name" />
+
+        <TextView
+            android:id="@+id/tvsearchname7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textColor="@color/tvnamebgcolor5"
+            tools:text="@string/tvsearchtext7" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="370dp"
+            android:layout_height="42dp"
+            android:layout_marginStart="22dp"
+            android:layout_marginLeft="22dp"
+            android:layout_marginTop="462dp"
+            android:layout_marginBottom="227dp" />
 
     </LinearLayout>
 
     <Button
-        android:id="@+id/btndelete1"
-        android:layout_width="270dp"
-        android:layout_height="51dp"
-        android:layout_marginTop="48dp"
+        android:id="@+id/btnsearch1"
+        android:layout_width="127dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="142dp"
+        android:layout_marginLeft="142dp"
+        android:layout_marginTop="401dp"
+        android:layout_marginBottom="285dp"
         android:background="@color/btn2"
         android:text="Button"
         android:textColor="@color/black"
         app:backgroundTint="@color/btn2"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
-        tools:text="@string/btnnamedelete1" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="@string/btnsearchtext1" />
+
+    <TextView
+        android:id="@+id/tvname1history"
+        android:layout_width="318dp"
+        android:layout_height="81dp"
+        android:text="TextView"
+        android:textColor="@color/tvnamebgcolor5"
+        android:textSize="@dimen/tvconfirmationsize4"
+        app:layout_constraintBottom_toTopOf="@+id/bottomNavigationView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnsearch1"
+        app:layout_constraintVertical_bias="0.357"
+        tools:text="@string/tvtexthistory2" />
 
     <Button
-        android:id="@+id/btndelete2"
+        android:id="@+id/btnhistory1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="120dp"
-        android:background="@color/btn2"
-        android:text="Button"
-        android:textColor="@color/black"
-        app:backgroundTint="@color/btn2"
-        app:layout_constraintBottom_toTopOf="@+id/llbnavigation1"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:text="@string/btnnamedelete2" />
-
-    <Button
-        android:id="@+id/btndelete3"
-        android:layout_width="268dp"
-        android:layout_height="48dp"
         android:background="@color/btn2"
         android:text="Button"
         android:textColor="@color/black"
         app:backgroundTint="@color/btn2"
         app:layout_constraintBottom_toTopOf="@+id/bottomNavigationView"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.535"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btndelete2"
-        app:layout_constraintVertical_bias="0.337"
-        tools:text="@string/btnnamedelete3" />
+        app:layout_constraintTop_toBottomOf="@+id/tvname1history"
+        app:layout_constraintVertical_bias="0.34"
+        tools:text="@string/btntexthh2" />
+
+    <Button
+        android:id="@+id/btnname2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/btn2"
+        android:text="Button"
+        android:textColor="@color/black"
+        app:backgroundTint="@color/btn2"
+        app:layout_constraintBottom_toTopOf="@+id/bottomNavigationView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.851"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvname1history"
+        app:layout_constraintVertical_bias="0.34"
+        tools:text="@string/btntexthh3" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
